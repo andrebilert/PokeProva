@@ -1,0 +1,26 @@
+[
+  {
+    "name": "metapod",
+    "url": "https://pokeapi.co/api/v2/pokemon/11/"
+  },
+  {
+    "name": "squirtle",
+    "url": "https://pokeapi.co/api/v2/pokemon/7/"
+  },
+  {
+    "name": "beedrill",
+    "url": "https://pokeapi.co/api/v2/pokemon/15/"
+  },
+  {
+    "name": "pidgeot",
+    "url": "https://pokeapi.co/api/v2/pokemon/18/"
+  },
+  {
+    "name": "wartortle",
+    "url": "https://pokeapi.co/api/v2/pokemon/8/"
+  },
+  {
+    "name": "raticate",
+    "url": "https://pokeapi.co/api/v2/pokemon/20/"
+  }
+]
